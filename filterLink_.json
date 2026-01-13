@@ -1,37 +1,4 @@
 {
-  "mergedAt": "2026-01-13T18:06:05.461690Z",
-  "sourceFiles": 2,
-  "totalItemsProcessed": 4377,
-  "totalAliveItems": 4377,
-  "totalDeadItems": 0,
-  "sources": [
-    {
-      "sourceFile": "hoho.json",
-      "serverName": "Shehavefun 🆓",
-      "channelName": "free-nsfw🔞",
-      "scrapedAt": "2026-01-11T13:35:42.803Z",
-      "serverId": "1343685933165314048",
-      "channelId": "1343688687208366174",
-      "categoryName": "Preview",
-      "filterType": "vid",
-      "messageCount": 133,
-      "originalCount": 43,
-      "aliveCount": 43
-    },
-    {
-      "sourceFile": "hohoho.json",
-      "serverName": "Rise of Eros Official",
-      "channelName": "nsfw",
-      "scrapedAt": "2026-01-06T08:52:06.369Z",
-      "serverId": "983218277876658257",
-      "channelId": "1022742131447701575",
-      "categoryName": "English - Non Rise Of Eros Stuff",
-      "filterType": "vid",
-      "messageCount": 50669,
-      "originalCount": 4334,
-      "aliveCount": 4334
-    }
-  ],
   "content": [
     {
       "type": "video",
